@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/ckeditor",
+    "name": "laradvance/admin-ckeditor",
     "description": "Integrate CKEDITOR into laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "editor", "CKEditor"],
-    "homepage": "https://github.com/laravel-admin-ext/ckeditor",
+    "homepage": "https://github.com/laradvance/admin-ckeditor",
     "license": "MIT",
     "authors": [
         {
